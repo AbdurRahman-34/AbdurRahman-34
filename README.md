@@ -2,6 +2,13 @@
 ## Hi, I'm Abdur Rahman 👋
 ### 💫 About Me:
 Hello, I’m Abdur Rahman, my core skill is based on javaScript and I love to do most things with MERN Stack.I am Skilled At Javascript .I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
+## :chart_with_upwards_trend: Current Stats
+
+<br />
+<p>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=AbdurRahman-34&theme=react&hide_border=true&background=081427&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
 
 ### ☕  Connect with me!
 <a href="https://www.linkedin.com/in/programmerabdurrahman/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
