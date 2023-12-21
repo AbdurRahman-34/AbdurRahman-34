@@ -1,7 +1,7 @@
 ![Web Developer Profile](https://media.licdn.com/dms/image/D5616AQEKeHIh3F8bBA/profile-displaybackgroundimage-shrink_350_1400/0/1682445607751?e=1707350400&v=beta&t=RVmwmeshwuHZH1lJbe3tHH5gT1d0gmxW0fFjLAA8HL4)
 ## Hi, I'm Abdur Rahman 👋
 ### 💫 About Me:
-Hello, I’m Abdur Rahman, my core skill is based on javaScript and I love to do most things with MERN Stack.I am Skilled At Javascript .I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind.
+I am a Front End Web developer with a strong skill set in JavaScript, and I am particularly passionate about using the MERN Stack. My focus is on creating exceptional web experiences that prioritize the user, and I thrive on collaborating as a team player. To keep up with the latest front-end technologies and best practices, I am constantly improving my skills.
 
 
 
