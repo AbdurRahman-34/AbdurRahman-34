@@ -1,15 +1,15 @@
 ![Web Developer Profile](https://media.licdn.com/dms/image/D5616AQG_Xt9-LGW6tA/profile-displaybackgroundimage-shrink_350_1400/0/1706427236744?e=1712188800&v=beta&t=7eQuDpNH9hFOGv-8Tldr2vRlK_VCuqOVihbx04NMwqA)
 <h2 align="center"> Hi, I'm Abdur Rahman 👋</h2>
 <p  width="70%" align="center">I am a Front End Web developer with a strong skill set in JavaScript, and I am particularly passionate about using the MERN Stack. My focus is on creating exceptional web experiences that prioritize the user, and I thrive on collaborating as a team player. To keep up with the latest front-end technologies and best practices, I am constantly improving my skills. </p>
+<br>
+<br>
 
-
-
-### 📈 Current Stats
+<h2 align="center">Current Stats</h2>
 <p align="center">
   <img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=AbdurRahman-34&theme=react&hide_border=true&background=222152&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 <br>
-<br>
+
 
 .<h2 align="center">Connect with me!</h2>
 <br/>
