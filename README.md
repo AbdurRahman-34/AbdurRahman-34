@@ -4,14 +4,14 @@
 <br>
 <br>
 
-<h2 align="center">Current Stats</h2>
+<h2>Current Stats</h2>
 <p align="center">
   <img align="center" width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=AbdurRahman-34&theme=react&hide_border=true&background=222152&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 <br>
 
 
-.<h2 align="center">Connect with me!</h2>
+.<h2>Connect with me!</h2>
 <br/>
 <a href="https://www.linkedin.com/in/programmerabdurrahman/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a/>
 <a href="https://www.facebook.com/get.abdurahman" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)<a/>
@@ -21,7 +21,7 @@
 
 
 
-.<h2 align="center">Technologies that I know</h2>
+.<h2>Technologies that I know</h2>
 ![alt text](https://i.ibb.co/vVq6TWP/HTML.jpg)
 
 
