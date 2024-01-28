@@ -17,12 +17,11 @@
 <a href="https://www.facebook.com/get.abdurahman" target="_blank">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)<a/>
 <a href="#" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)<a/>
 <br>
-<br>
 
 
 
 
-## 💻 Technologies that I know
+.<h2 align="center">Technologies that I know</h2>
 ![alt text](https://i.ibb.co/vVq6TWP/HTML.jpg)
 
 
