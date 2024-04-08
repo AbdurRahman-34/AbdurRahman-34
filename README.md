@@ -1,4 +1,4 @@
-![Web Developer Profile](https://media.licdn.com/dms/image/D5616AQG_Xt9-LGW6tA/profile-displaybackgroundimage-shrink_350_1400/0/1706427236744?e=1712188800&v=beta&t=7eQuDpNH9hFOGv-8Tldr2vRlK_VCuqOVihbx04NMwqA)
+![Web Developer Profile](https://media.licdn.com/dms/image/D5616AQG_Xt9-LGW6tA/profile-displaybackgroundimage-shrink_350_1400/0/1706427236744?e=1718236800&v=beta&t=dWPBq9KPAt8O26f_ruJpoeC8Vzhj0_bY7kcWv4fvQbY)
 <h2 align="center"> Hi, I'm Abdur Rahman 👋</h2>
 <p  width="70%" align="center">I am a Front End Web developer with a strong skill set in JavaScript, and I am particularly passionate about using the MERN Stack. My focus is on creating exceptional web experiences that prioritize the user, and I thrive on collaborating as a team player. To keep up with the latest front-end technologies and best practices, I am constantly improving my skills. </p>
 <br>
